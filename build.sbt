@@ -1,4 +1,4 @@
-name := "hello-libtorrent"
+name := "torrent"
 organization := "org.matthicks"
 version := "1.0.0"
 
